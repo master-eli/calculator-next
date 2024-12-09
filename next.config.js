@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/calculator-next',
-  assetPrefix: '/calculator-next/',
+  assetPrefix: '/calculator-next',
   images: {
     unoptimized: true,
   },
